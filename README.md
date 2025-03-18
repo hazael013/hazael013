@@ -41,7 +41,7 @@ def my_tech_odyssey():
 my_tech_odyssey()
 ```
 
-### 📫 Encuéntrame en el multiverso digital
+### 👥 RR.SS.
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hazael013)
 [![X (Twitter)](https://img.shields.io/badge/-X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hazael0013)
